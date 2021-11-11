@@ -1,5 +1,5 @@
 ---
-title: 'Get In Touch'
+title: 'Contact Me 😁'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+I am currently looking for opportunities in the United States as I previously worked in New York City and it was a fufilling and amazing experience which changed my life. I am looking forward to bringing my expertise and value as a software engineer.
