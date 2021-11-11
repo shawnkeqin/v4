@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Shawn Lim - Full Stack Software Engineer',
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
@@ -56,8 +56,7 @@ module.exports = {
   ],
 
   navHeight: 100,
-  greenColor: '#64ffda',
-  navyColor: '#0a192f',
+  greenColor: '#434343',
   darkNavyColor: '#020c1b',
 
   srConfig: (delay = 200) => ({

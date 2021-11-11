@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://www.upstatement.com/'
+date: '2018-05-10'
+title: 'Software Developer Intern'
+company: 'Orange'
+location: 'Singapore'
+range: 'May - August 2018'
+url: 'https://www.orange-business.com/en'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- I developed the front-end for a Video Analytics Web App utilizing HTML, CSS and JavaScript to plot the movement of a person on a 2D map using cameras.
+- I built an IoT remote environmental monitoring dashboard using firebase real-time database for telemetry data and Google BigQuery to store historical data.

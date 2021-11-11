@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
+date: '2019-01-21'
 title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://www.apple.com/music/'
+company: 'Behalf'
+location: 'New York City, Manhattan'
+range: 'Jan - Dec 2019'
+url: 'https://www.behalf.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- I built a machine learning model for correlation between merchants and customer industry using Python utilizing Linear Regression.
+- I learnt Apex and Visualforce and developed a Salesforce Manual Underwriting Dashboard for the Manual U/W team.
+- I developed automation tool for scraping data off merchant invoices using JavaScript, Regex and Google Cloud Vision API.

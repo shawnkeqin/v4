@@ -3,7 +3,7 @@ const theme = {
     dark: '#000007',
     darkestNavy: '#01050b',
     darkNavy: '#020c1b',
-    navy: '#0a192f',
+    navy: '#434343',
     lightNavy: '#172a45',
     darkGrey: '#333f58',
     mediumGrey: '#2d3952',
@@ -17,7 +17,7 @@ const theme = {
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
-    green: '#64ffda',
+    green: '#20BDFF',
     blue: '#71AFFF',
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
@@ -55,7 +55,7 @@ const theme = {
   tabWidth: 120,
   radius: 3,
 
-  gradient: `linear-gradient(0.4turn, #64d6ff, #64ffda)`,
+  gradient: `linear-gradient(0.4turn, #64d6ff, #363795)`,
 
   loaderDelay: `6`,
 
