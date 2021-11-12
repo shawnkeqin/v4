@@ -1,14 +1,18 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2021-01-10'
+title: 'Ticketing'
+github: 'https://github.com/shawnkeqin/Ticketing'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Typescript
+  - Docker
+  - Kubernetes
+  - ReactJS
+  - Nodejs
+  - Skaffold
+  - Google Cloud Platform
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Ticketing is a microservices based web application built using React, Node.js, Typescript, Docker, Kubernetes, NATS-streaming server leveraging on Google Cloud Platform.

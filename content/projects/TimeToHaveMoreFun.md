@@ -1,14 +1,13 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: '2020-01-12'
+title: 'AI Telegram Chatbot'
+github: 'https://github.com/shawnkeqin/AI-Telegram-bot'
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Python
+  - Machine Learning
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+An AI based chatbot for messaging app telegram to intelligently respond to messages.

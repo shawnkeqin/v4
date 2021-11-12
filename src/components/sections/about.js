@@ -126,7 +126,23 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Typescript',
+    'JavaScript (ES6+)',
+    'HTML & CSS',
+    'React',
+    'Redux & Redux Toolkit',
+    'Vue',
+    'Node.js',
+    'Express',
+    'NestJS',
+    'PostgreSQL & MongoDB',
+    'Golang',
+    'Python',
+    'Java',
+    'Ruby on Rails',
+    'Docker & Kubernetes',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,33 +152,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi there ! I'm Shawn, a full stack software engineer from Singapore who has worked
+              both in startups and MNCs. As an indie hacker, I develop web applications with the
+              latest technologies and also enjoy solving alogrithms questions for fun. I also have
+              experienced with systems design and architecture.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              During my undergraduate days, I had a one-year stint in New York City working at
+              Behalf, a Series C funded Fintech Startup. Upon my graduation from the{' '}
+              <a href="https://www.nus.edu.sg/"> National University of Singapore (NUS)</a> -
+              'Asia's Top University', I joined Hewlett Packard Enterprise (HPE) as a full stack
+              software engineer. I enjoyed my time over at HPE, but ultimatey, I missed the startup
+              culture, hence I decided to make the leap over to CoverWallet, a Insurtech startup
+              that was acquired by Aon. I have been working there ever since, and it has been a
+              positive and fufilling experience.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Here are a couple of technologies which I am currently working with and am proficient
+              in:
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
