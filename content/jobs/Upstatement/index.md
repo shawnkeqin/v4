@@ -7,6 +7,7 @@ range: 'Sept 2021 - Present'
 url: 'https://www.coverwallet.com/'
 ---
 
+- Focused mainly on React, Redux, Ruby on Rails, Docker, Kubernetes.
 - Design, implement and deploy company's software products.
 - Produce clean, efficient code based on specifications.
 - Integrate software services and third-party services.
