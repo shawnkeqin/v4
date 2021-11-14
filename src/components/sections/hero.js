@@ -66,7 +66,8 @@ const Hero = () => {
       <p>
         I'm a software engineer from Singapore who previously worked in New York. I am proficient
         with various technologies and who loves tackling challenging and complex problems. I am
-        looking for software engineer/senior software engineer positions in the United States.
+        looking for software engineer/senior software engineer positions in the United States. Feel
+        free to reach out!
       </p>
     </>
   );
