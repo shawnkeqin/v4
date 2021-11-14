@@ -142,6 +142,7 @@ const About = () => {
     'Java',
     'Ruby on Rails',
     'Docker & Kubernetes',
+    'GraphQL',
   ];
 
   return (
