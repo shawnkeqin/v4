@@ -1,13 +1,12 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2020-10-03'
+title: 'Java Optimized Zip Compression Tool'
+github: 'https://github.com/shawnkeqin/Java-take-home-assignment'
+external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Java 8
+  - IntelliJ IDE
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+This program compresses files and folders into a set of compressed files such that of each compressed file doesn't exceed a maximum size, along with multithreading and concurrency.
