@@ -1,12 +1,13 @@
 ---
-date: '2016-08-01'
-title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+date: '2020-02-02'
+title: 'Project Management Dashboard'
+github: 'https://github.com/shawnkeqin/Project-Management-Dashboard'
+external: ''
 tech:
+  - Typescript
   - React
-  - CSS
+  - Swagger
 showInProjects: true
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+A Project Management Dashboard web app to manage developers
